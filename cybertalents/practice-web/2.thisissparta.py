@@ -13,6 +13,6 @@ function check() {
     }
 } <
 /script>"""
-
+#Username and password is Cyber-Talent
 #This challenge is testing of javascript deobfuscation
 # FLAG: {J4V4_Scr1Pt_1S_Aw3s0me}

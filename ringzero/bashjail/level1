@@ -1,0 +1,4 @@
+command
+
+ssh level1@challenges.ringzer0team.com port 10218
+password level1

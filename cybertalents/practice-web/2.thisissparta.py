@@ -1,5 +1,11 @@
+#Username and password is Cyber-Talent
+#This challenge is testing of javascript deobfuscation
+# FLAG: {J4V4_Scr1Pt_1S_Aw3s0me}
+
 url="http://35.193.45.56/sparta/"
-source code="""< script >
+
+# source code
+"""< script >
     var items = ["value", "user", "getElementById", "pass", "Cyber-Talent", "Congratz \x0A\x0A", "wrong Password"];
 
 function check() {
@@ -13,6 +19,4 @@ function check() {
     }
 } <
 /script>"""
-#Username and password is Cyber-Talent
-#This challenge is testing of javascript deobfuscation
-# FLAG: {J4V4_Scr1Pt_1S_Aw3s0me}
+

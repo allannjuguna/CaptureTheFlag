@@ -1,4 +1,10 @@
 import requests
+
+"""
+This challenge is testing weak authentication which is achieved by changing the cookie value to gain admin privs
+FLAG:<h3>Admin Secret flag : hiadminyouhavethepower </h3>
+"""
+
 session=requests.Session()
 
 url="http://35.193.45.56/adminpower/"

@@ -1,11 +1,17 @@
+
+"""
+This challenge is testing for sql injection
+Ryan : flag245698 =>admin,
+"""
+
 url="http://3.126.138.80/shareideas/"
 
 
 # ' or select 1 and "x"='x
 # 1' ORDER BY 1--+
 
-TEMPLATE
-insert into users(item,item,item,item) values('value1','value2','value3',' PAYLOADHERE	') 
+# TEMPLATE
+# insert into users(item,item,item,item) values('value1','value2','value3',' PAYLOADHERE	') 
 
 
 """

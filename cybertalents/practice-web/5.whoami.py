@@ -1,6 +1,11 @@
 import requests
 import base64
 from urllib.parse import unquote
+"""
+This challenge is testing changing coookies to authenticate as admin
+FLag{B@D_4uTh1Nt1C4Ti0n}
+"""
+
 session=requests.Session()
 url="http://34.76.107.218/whoami/admin.php"
 username="admin"

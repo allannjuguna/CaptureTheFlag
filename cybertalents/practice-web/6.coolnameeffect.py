@@ -1,8 +1,13 @@
+
+"""
+This challenge is testing for cross site scripting
+flag="ciyypjz"
+"""
+
 # <img src=x onerror='alert(1)'>
 import requests
 session=requests.Session()
 
-# payload="<img src=x onerror='alert(1)'>"
 
 
 # javascript=f'document.location="{url+?flag=`${alert(1)}`}"'

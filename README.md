@@ -1,2 +1,2 @@
 # CaptureTheFlag
-This are my capture the flag writeups(scripts)
+These are my capture the flag writeups(scripts)
